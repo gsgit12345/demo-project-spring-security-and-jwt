@@ -7,6 +7,7 @@
 		<module>demo-project-basic-security-project</module>
 		<module>demo-project-rolebase-authentication</module>
         <module>demo-project-security-withH2-database</module>
+        <module>demo-project-jwt-tutorial</module>
     </modules>
 
     <parent>

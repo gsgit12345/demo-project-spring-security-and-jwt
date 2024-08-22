@@ -1,0 +1,25 @@
+
+====gennerate the token===
+
+http://localhost:8082/test1/signin
+
+{
+"username":"user1",
+"password":"user1"
+}
+
+in  Authorization select NoAuth
+
+after   access the endpoint
+
+http://localhost:8082/user
+
+in  Authorization select NoAuth
+
+and  in the header add the
+
+Authorization  Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTcyNDMyMjExNiwiZXhwIjoxNzI0MzI1MTE2fQ.D0DIM_Lg9PeWEb7npPhYKQDOIquP-y8TbYcgi36xXG6YBbRLmpOU0s8nMZrGNTOdhosngQG2n6SOe5eTA-6OuA
+
+and the fire the request.
+
+
