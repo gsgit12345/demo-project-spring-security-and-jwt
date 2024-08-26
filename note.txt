@@ -1,2 +1,5 @@
 
 https://www.youtube.com/channel/UCH_Wi8MidUKGlQvep9T7t4g/videos
+
+
+https://github.com/EmbarkXOfficial/Spring-Security-Course/blob/main/src/main/java/com/example/securitydemo/jwt/JwtUtils.java  --github
